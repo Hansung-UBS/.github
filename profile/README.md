@@ -8,7 +8,7 @@
 
 ### 🌈 활동 가이드라인
 
-* 활동내용은 [프로젝트 로그](https://github.com/Hansung-Univ-bored-students/ProjectDocument/blob/main/ProjectLog.md)에 남긴다.   
+* 활동내용은 [활동 로그](https://github.com/Hansung-Univ-bored-students/ProjectDocument/blob/main/ProjectLog.md)에 남긴다.   
 * 차후 있을 프로젝트의 코드는 [ProjectScript](https://github.com/Hansung-Univ-bored-students/ProjectScript) 레포지토리에 저장한다.   
 
 ### 🧙 사용 스택
