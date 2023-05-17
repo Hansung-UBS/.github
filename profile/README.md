@@ -8,20 +8,29 @@
 
 ### 🌈 활동 가이드라인
 
-* 함수군 정보와 전역변수 목록은 [프로젝트 위키](https://github.com/HansungMetro/ProjectDocument/blob/main/ProjectWiki.md)를 참고하며, 작업내용을 할 수 있으면 [프로젝트 로그](https://github.com/HansungMetro/ProjectDocument/blob/main/ProjectLog.md)에 남긴다.   
-* 프로젝트 코드는 [ProjectScript](https://github.com/HansungMetro/ProjectScript) 레포지토리에 저장한다.   
+* 활동내용은 [프로젝트 로그](https://github.com/Hansung-Univ-bored-students/ProjectDocument/blob/main/ProjectLog.md)에 남긴다.   
+* 차후 있을 프로젝트의 코드는 [ProjectScript](https://github.com/Hansung-Univ-bored-students/ProjectScript) 레포지토리에 저장한다.   
 
 ### 🧙 사용 스택
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![Java Script](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MariaDB](https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧰 사용 도구
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-
-### 👩‍💻 참고자료
-
-[서울시 지하철 실시간 위치정보, 열린데이터광장](https://data.seoul.go.kr/dataList/OA-12601/A/1/datasetView.do)   
-[서울시 지하철 실시간 도착정보, 열린데이터광장](https://data.seoul.go.kr/dataList/OA-12764/F/1/datasetView.do)   
-[OPEN API 사용 가이드, 열린데이터광장](https://data.seoul.go.kr/together/guide/useGuide.do)   
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 
-
+### 🥇 고급 스택
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Apatch tomcat](https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
