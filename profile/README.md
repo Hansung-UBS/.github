@@ -12,9 +12,9 @@
 * 차후 있을 프로젝트의 코드는 [ProjectScript](https://github.com/Hansung-Univ-bored-students/ProjectScript) 레포지토리에 저장한다.   
 
 ### 📖 활동 문서
-* 지출 내역 [지출 내역](https://github.com/Hansung-Univ-bored-students/ProjectDocument/blob/main/ExpenseDetails.md)
-* 프로젝트 사양 [프로젝트 사양](https://github.com/Hansung-Univ-bored-students/ProjectDocument/blob/main/ProjectDetails.md)
-* 역할 분담 [역할 분담](https://github.com/Hansung-Univ-bored-students/ProjectDocument/blob/main/MemberRoles.md)
+* 지출 내역 [BILLS](https://github.com/Hansung-Univ-bored-students/ProjectDocument/blob/main/ExpenseDetails.md)
+* 프로젝트 사양 [PROJECT DETAILS](https://github.com/Hansung-Univ-bored-students/ProjectDocument/blob/main/ProjectDetails.md)
+* 역할 분담 [ROLES](https://github.com/Hansung-Univ-bored-students/ProjectDocument/blob/main/MemberRoles.md)
 
 ### 🧙 사용 스택
 
