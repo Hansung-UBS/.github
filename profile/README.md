@@ -11,6 +11,11 @@
 * 활동내용은 [활동 로그](https://github.com/Hansung-Univ-bored-students/ProjectDocument/blob/main/ProjectLog.md)에 남긴다.   
 * 차후 있을 프로젝트의 코드는 [ProjectScript](https://github.com/Hansung-Univ-bored-students/ProjectScript) 레포지토리에 저장한다.   
 
+### 📖 활동 문서
+* 지출 내역 [지출 내역](https://github.com/Hansung-Univ-bored-students/ProjectDocument/blob/main/ExpenseDetails.md)
+* 프로젝트 사양 [프로젝트 사양](https://github.com/Hansung-Univ-bored-students/ProjectDocument/blob/main/ProjectDetails.md)
+* 역할 분담 [역할 분담](https://github.com/Hansung-Univ-bored-students/ProjectDocument/blob/main/MemberRoles.md)
+
 ### 🧙 사용 스택
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
